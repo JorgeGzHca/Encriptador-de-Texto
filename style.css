@@ -5,7 +5,6 @@ body {
 .main {
     display: flex;
     flex-direction: row;
-    max-height: 80vh;
     position: relative;
     min-height: 90vh;
 }
